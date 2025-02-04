@@ -2,6 +2,7 @@
 Task Description:
 
 Object Detection in Images:-
+```
 You are tasked with building an object detection model for a self-driving car project. The dataset
 provided contains images from a front-facing camera mounted on a car, and it includes various
 objects such as pedestrians, cars, and traffic signs.
@@ -22,8 +23,10 @@ Evaluation:
 set.
 ● Use appropriate evaluation metrics such as precision, recall, and F1 score for each
 class.
+```
 
 Visualization:
+```
 ● Provide visualizations of the model's predictions on a few sample images. Include
 bounding boxes and class labels.
 Optimization:
@@ -34,11 +37,14 @@ Communication:
 ● Write a brief report summarizing your approach, key findings, and potential areas
 for improvement. Assume you will be presenting this report to a non-technical
 audience.
+```
 
 Submission Guidelines:
+```
 ● Submit your code along with comments explaining each step.
 ● Include a written report detailing your approach, results, and any challenges faced.
 Note:
 ● You can use any deep learning framework you are comfortable with (e.g., TensorFlow,
 PyTorch).
 ● Feel free to make any reasonable assumptions if certain details are not provided.
+```
